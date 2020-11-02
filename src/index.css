@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+body {
+=======
+/* body {
+>>>>>>> 36dd06b... update
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+<<<<<<< HEAD
+}
+/* .moto{
+  background-color: darkred;
+} */
+.MyApp-course{
+background-color: darkred;
+}
+=======
+} */
+/* .moto{
+  background-color: darkred;
+} */
+
+
+.parent {
+  text-align: center;
+  direction: unset;
+  display: grid;
+  background-color: darksalmon;
+  grid-template-columns: 40px 1fr 30px 1fr 30px 1fr 40px;
+  grid-template-rows: repeat(2, 20px) 30px repeat(3, 60px) repeat(2, 20px);
+  grid-column-gap: 0px;
+  grid-row-gap: 17px;
+  }
+
+>>>>>>> 36dd06b... update
